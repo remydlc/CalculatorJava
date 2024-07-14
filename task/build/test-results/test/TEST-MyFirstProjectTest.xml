@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyFirstProjectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-12T20:37:04" hostname="Remys-MacBook-Pro.local" time="0.07">
+  <properties/>
+  <testcase name="start" classname="MyFirstProjectTest" time="0.07"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Earned amount:
+Pancake: $80.0
+Doughnut: $1075.0
+Toffee: $118.0
+Milk chocolate: $1680.0
+Ice cream: $2250.0
+BubbleGum: $202.0
+
+Income: $5405.0
+Staff expenses: 
+> 4170
+Other expenses: 
+> 220
+Net income: $1015.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
